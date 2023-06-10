@@ -1,5 +1,4 @@
-// Point Cloud with Syphon Support
-
+// Point Cloud with Syphon Support - edited from Daniel Shiffman's example:
 // Daniel Shiffman
 // Kinect Point Cloud example
 // https://github.com/shiffman/OpenKinect-for-Processing
